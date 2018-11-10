@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'sshiling2018_Example' do
+  pod 'sshiling2018', :path => '../'
+
+  target 'sshiling2018_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

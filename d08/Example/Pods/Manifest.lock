@@ -1,0 +1,16 @@
+PODS:
+  - sshiling2018 (0.1.0)
+
+DEPENDENCIES:
+  - sshiling2018 (from `../`)
+
+EXTERNAL SOURCES:
+  sshiling2018:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  sshiling2018: 213c59829d0009534ecbcd20d03e3442dd8aa50f
+
+PODFILE CHECKSUM: 9f55f00c39fd4501d50b606ab37a4847ee1974a9
+
+COCOAPODS: 1.5.3

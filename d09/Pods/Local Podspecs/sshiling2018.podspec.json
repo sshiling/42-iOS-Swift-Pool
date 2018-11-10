@@ -1,0 +1,25 @@
+{
+  "name": "sshiling2018",
+  "version": "0.1.0",
+  "summary": "utomatically assigning platform `ios` with version `9.3` on target `sshiling2018_Exa",
+  "swift_version": "4.0.3",
+  "description": "utomatically assigning platform `ios` with version `9.3` on target `sshiling2018_Exautomatically assigning platform `ios` with version `9.3` on target `sshiling2018_Exautomatically assigning platform `ios` with version `9.3` on target `sshiling2018_Exautomatically assigning platform `ios` with version `9.3` on target `sshiling2018_Exa",
+  "homepage": "https://github.com/sshiling/sshiling2018",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "sshiling": "sshiling@student.unit.ua"
+  },
+  "source": {
+    "git": "https://github.com/sshiling/sshiling2018.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "sshiling2018/Classes/**/*",
+  "resources": "sshiling2018/Assets/*.xcdatamodeld",
+  "frameworks": "CoreData"
+}

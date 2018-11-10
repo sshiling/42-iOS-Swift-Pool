@@ -1,0 +1,16 @@
+PODS:
+  - sshiling2018 (0.1.0)
+
+DEPENDENCIES:
+  - sshiling2018 (from `~/d08/`)
+
+EXTERNAL SOURCES:
+  sshiling2018:
+    :path: "~/d08/"
+
+SPEC CHECKSUMS:
+  sshiling2018: e7b0f623c099de9ebafbd715c85b983ca1ee0242
+
+PODFILE CHECKSUM: 01066b518d871779bc8a802200b7482cb8d0d1c3
+
+COCOAPODS: 1.5.3
