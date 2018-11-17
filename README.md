@@ -21,7 +21,7 @@ The project was carried out in the style of an intensive bootcamp. <br>
 
 ## Rushes (group projects)
 
-**Rush00:** Intra42 API. Intra42 Forum App for CRUD posts and comments on forum.
+**Rush00:** Intra42 API. Intra42 Forum App for CRUD posts and comments on forum. <br>
 **Rush01:** Simple map view app with routing.
 
 #### More about School 42 you can find here: https://en.wikipedia.org/wiki/42_(school)
